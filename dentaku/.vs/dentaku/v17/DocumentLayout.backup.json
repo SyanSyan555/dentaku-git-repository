@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\bocci\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\dentaku\\dentaku\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{180C67C8-A43B-487B-BBEA-86537727904A}|dentaku\\dentaku.vcxproj|C:\\Users\\bocci\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\dentaku\\dentaku\\dentaku\\dentaku.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{180C67C8-A43B-487B-BBEA-86537727904A}|dentaku\\dentaku.vcxproj|solutionrelative:dentaku\\dentaku.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "dentaku.c",
+              "DocumentMoniker": "C:\\Users\\bocci\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\dentaku\\dentaku\\dentaku\\dentaku.c",
+              "RelativeDocumentMoniker": "dentaku\\dentaku.c",
+              "ToolTip": "C:\\Users\\bocci\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\dentaku\\dentaku\\dentaku\\dentaku.c",
+              "RelativeToolTip": "dentaku\\dentaku.c",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAmwD0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-01-14T11:33:50.276Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
